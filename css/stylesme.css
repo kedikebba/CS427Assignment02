@@ -12,7 +12,7 @@ h1, h4{
     color: maroon;
 }
 
-img#images { 
+p#images img { 
     height: 40vh;
     width: 30vw;
 }
@@ -40,7 +40,7 @@ h4#Neighbours{
 #Movies{
     color: blue;
 }
-#neighbourDetails{
+li span{
     color: chocolate;
 }
 ol{
